@@ -1,6 +1,6 @@
 import random
 def play():
-    user = input("rock(r)...ss.paper(p)...scissros(s)\n")
+    user = input("chosse the option rock(r)....paper(p)...scissros(s)\n")
     if user in ['r', 's','p']:
         print("vailded continue\n")
     else:
